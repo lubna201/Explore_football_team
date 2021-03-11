@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    font-size: 3rem;
+    color: #008891;
+  }
+.col {
+    margin:20px;
+    justify-content: center;
+}
+
+.team {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    box-shadow: 0 4px 20px 10px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    background-color: whitesmoke;
+    justify-content: center;
+  }
+
+.row{
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    justify-content: center;
+}
+.league{
+    background-color: rgb(250, 250, 67);
+}

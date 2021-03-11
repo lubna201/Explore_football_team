@@ -1,0 +1,12 @@
+.top-banner{
+    background-image: url('https://www.wallpapertip.com/wmimgs/228-2286285_football-picture.jpg');
+    height:100%;
+    width:100%;
+    background-size: 100%;
+    text-align: center;
+}
+.top-banner h1{
+    padding-top: 100px;
+    color: antiquewhite;
+    font-size: 60px;
+}
