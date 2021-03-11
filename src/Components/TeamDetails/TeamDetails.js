@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import './TeamDetails.css'
-import { Container, Row, Col, Navbar } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import male from './Photo/male.png';
 import female from './Photo/female.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
