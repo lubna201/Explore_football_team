@@ -20,11 +20,6 @@ const TeamDetails = () => {
 
     return (
         <div>
-            <Navbar expand="lg" variant="dark" bg="dark" fixed="top">
-                <Container>
-                    <Navbar.Brand href="../Home/Home.js">Back To Home Page</Navbar.Brand>
-                </Container>
-            </Navbar>
             <img src={teamDetail.strTeamBanner} className="top-banner1" alt="topBanner"></img>
             <div className="back">
                 <Container className="detail">
