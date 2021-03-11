@@ -5,5 +5,5 @@
  #### Upper part ,you can see team's banner in cover. then a box with some more information and a picture. If the team is a female team then box's picture will show a female team's picture. if it's male then it will show a male team's picture. In the lower part there description of the particular team. and then some link. If you click on those link , you can go to that particular social media or site. 
  ## Come back to the previous page then you can see another team's detail.
 
- [Live site link](https://6049ec1843fd6a6ac3c22e91--jolly-dubinsky-4ea9ad.netlify.app/)
+ [Live site link](https://6049f6dedf574174b889e31c--jolly-dubinsky-4ea9ad.netlify.app/)
 
