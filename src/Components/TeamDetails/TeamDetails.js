@@ -25,7 +25,7 @@ const TeamDetails = () => {
                     <Navbar.Brand href="../Home/Home.js">Back To Home Page</Navbar.Brand>
                 </Container>
             </Navbar>
-            <img src={teamDetail.strTeamBanner} className="top-banner1"></img>
+            <img src={teamDetail.strTeamBanner} className="top-banner1" alt="topBanner"></img>
             <div className="back">
                 <Container className="detail">
                     <Row className="row">
@@ -40,12 +40,12 @@ const TeamDetails = () => {
                             {(() => {
                                 if (teamDetail.strGender === 'Male') {
                                     return (
-                                        <img src={male}></img>
+                                        <img src={male} alt="male"></img>
                                     )
                                 }
                                 else {
                                     return (
-                                        <img src={female}></img>
+                                        <img src={female} alt="female"></img>
                                     )
                                 }
                             })()}
